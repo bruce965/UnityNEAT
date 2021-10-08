@@ -1,0 +1,14 @@
+{
+	"name": "com.fabioiotti.unityneat",
+	"version": "1.0.0",
+	"displayName": "UnityNEAT",
+	"description": "Port of SharpNEAT to Unity 4.x and 5.x",
+	"unity": "2017.1",
+	"samples": [
+		{
+			"displayName": "Samples",
+			"description": "Various UnityNEAT samples.",
+			"path": "Samples~/UnityNEATSamples"
+		}
+	]
+}
