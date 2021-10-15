@@ -1,6 +1,6 @@
 {
 	"name": "com.fabioiotti.unityneat",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"displayName": "UnityNEAT",
 	"description": "Port of SharpNEAT to Unity 4.x and 5.x",
 	"unity": "2017.1",
