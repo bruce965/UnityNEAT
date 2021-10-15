@@ -276,8 +276,8 @@ namespace SharpNeat.EvolutionAlgorithms
                    // _awaitPauseEvent.Set();
 
                     // Reset the flag. Update RunState and notify any listeners of the state change.
-                 //   _pauseRequestFlag = false;
-                 //   _runState = RunState.Paused;
+                    _pauseRequestFlag = false;
+                    _runState = RunState.Paused;
                     OnUpdateEvent();
                     OnPausedEvent();
                     break;
